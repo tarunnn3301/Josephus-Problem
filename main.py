@@ -1,4 +1,4 @@
-# My program can be compiled and executed in linux os environment
+# My program can be compiled and executed in linux os environment.
 
 def ProbSolve(person, k, index):
     # When one person is alive then it will print that person's name
