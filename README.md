@@ -1,6 +1,6 @@
 # PROGRAMMING ASSIGNMENT 
 
-# Question 1
+# Question1
 
 ----------commands for executing and compiling the program are given at the end QUESTION------------
 
